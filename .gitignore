@@ -1,0 +1,16 @@
+*
+!/**/
+!*.*
+*.exe
+*.cc
+*.cpp
+*.txt
+*.ipch
+*.bin
+*.py
+*.in
+*.out
+!binary_index_tree.py
+!open_addressing_hash_map.py
+!separate_chaining_hash_map.py
+!calc.py
