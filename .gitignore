@@ -14,3 +14,5 @@
 !open_addressing_hash_map.py
 !separate_chaining_hash_map.py
 !calc.py
+!binary_search_tree.py
+!indexed_min_heap.py
