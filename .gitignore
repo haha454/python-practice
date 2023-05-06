@@ -16,3 +16,6 @@
 !calc.py
 !binary_search_tree.py
 !indexed_min_heap.py
+!queue_test.py
+!number_guessing_threads.py
+!number_guessing_asyncio.py
