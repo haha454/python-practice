@@ -19,3 +19,5 @@
 !queue_test.py
 !number_guessing_threads.py
 !number_guessing_asyncio.py
+!lzw.py
+!order_matching_engine_with_maker_taker.py
